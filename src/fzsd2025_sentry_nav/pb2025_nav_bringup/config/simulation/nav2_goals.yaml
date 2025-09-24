@@ -1,0 +1,13 @@
+nav2_goals:
+  - id: 0
+    name: "home"
+    pose:
+      x: 1.2
+      y: 0.8
+      yaw: 0.0
+  - id: 1  
+    name: "defense_1"
+    pose:
+      x: 3.5
+      y: 2.3
+      yaw: 1.57
